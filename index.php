@@ -47,7 +47,7 @@
 <body>
     <img id="image" src="./ggsipu.jpg" alt="GGSIPU">
     <div class="container">
-        <h1>Welcome to GGSIPU Travel form </h1>
+        <h1>Welcome to GGSIPU Travel form to LONDON GUYSS</h1>
         <p>Enter your details and submit this form to  confirm your participation in trip </p>
 
         <form action="/php_in_one_video/index.php" method="post">
